@@ -3,7 +3,7 @@
 ### PC 5
 
 
+![image](https://user-images.githubusercontent.com/78250386/196144593-8096e1bb-eccd-4a58-998d-b87162c7f847.png)
 
-###### Buatlah web seper<img width="952" alt="Tugas2" src="https://user-images.githubusercontent.com/78250386/196132230-9c1b4c7f-8877-4f73-887e-601b6b13c813.png">
 ti di modul yang memiliki dan ubahlah tampilannya 
 > Screenshot tampilan dimasukkan dalam readme
